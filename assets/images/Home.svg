@@ -1,0 +1,12 @@
+<svg id="Home" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M24,14H21V24H15V16H9v8H3V14H0L12,0Z" fill="#dabc73"/>
+    </clipPath>
+  </defs>
+  <g id="COMPONENT_ICON_HOME_ACTIVE" data-name="COMPONENT / ICON /  HOME / ACTIVE">
+    <g id="COLOR_PRIMARY_GRADIENT" data-name="COLOR / PRIMARY /  GRADIENT">
+      <path id="Mask-2" data-name="Mask" d="M24,14H21V24H15V16H9v8H3V14H0L12,0Z" fill="#ebc00d"/>
+    </g>
+  </g>
+</svg>

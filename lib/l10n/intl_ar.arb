@@ -1,0 +1,14 @@
+{
+  "welcome": "مرحباً بك",
+  "email": "البريد الالكتروني",
+  "password": "كلمه المرور",
+  "forgetPassword": "نسيت كلمه المرور",
+  "logIn": "تسجيل دخول",
+  "donHaveAccount": "ليس لديك حساب؟",
+  "registerNow": "سجل الان",
+  "search": "ابحث عن المنتج",
+  "more": "المزيد",
+  "products": "المنتجات",
+  "recommend": "منتجات مختاره لك",
+  "newProduct": "منتجات جديده"
+}
